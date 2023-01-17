@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasqualemartucci&label=Profile%20views&color=0e75b6&style=flat" alt="pasqualemartucci" /> </p>
 
-- 🔭 I’m currently working on **personal project**
+- 🔭 I’m currently working at **Quest Global**
 
-- 🌱 I’m currently learning **React Native, Flutter**
+- 🌱 I’m currently learning **Python, C++, Embedded Software**
 
 - 📫 How to reach me **pasquale97.martucci@gmail.com**
 
