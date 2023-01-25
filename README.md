@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Quest Global**
 
-- 🌱 I’m currently learning **Python, C++, Embedded Software**
+- 🌱 I’m currently learning **Python, C++, Embedded Software, Automotive Cyber Security**
 
 - 📫 How to reach me **pasquale97.martucci@gmail.com**
 
