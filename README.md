@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasqualemartucci&label=Profile%20views&color=0e75b6&style=flat" alt="pasqualemartucci" /> </p>
 
-- 🔭 I’m currently working at **Quest Global**
+- 🔭 I’m currently working at **MetaSystem** on behalf of **Intecs**
 
 - 🌱 I’m currently learning **Python, C++, Embedded Software, Automotive Cyber Security**
 
