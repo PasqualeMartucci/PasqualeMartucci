@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pasquale Martucci</h1>
-<h3 align="center">A passionate Computer Engineer from Italy</h3>
+<h3 align="center">A passionate Software Engineer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasqualemartucci&label=Profile%20views&color=0e75b6&style=flat" alt="pasqualemartucci" /> </p>
 
-- 🔭 I’m currently working at **MetaSystem** on behalf of **Intecs**
+- 🔭 I’m currently working at **MTA S.P.A.** on behalf of **Alten**
 
 - 🌱 I’m currently learning **Python, C++, Embedded Software, Automotive Cyber Security**
 
