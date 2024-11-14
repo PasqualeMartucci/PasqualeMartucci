@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **MTA S.P.A.** on behalf of **Alten**
 
-- 🌱 I’m currently learning **Python, C++, Embedded Software, Automotive Cyber Security**
+- 🌱 I’m currently learning **Python, C++, Embedded Software, Flutter framework**
 
 - 📫 How to reach me **pasquale97.martucci@gmail.com**
 
