@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasqualemartucci&show_icons=true&theme=dark&locale=en&layout=compact" alt="pasqualemartucci" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasqualemartucci&theme=dark" alt="pasqualemartucci" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PasqualeMartucci)](https://git.io/streak-stats)
