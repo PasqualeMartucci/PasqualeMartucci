@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasqualemartucci&label=Profile%20views&color=0e75b6&style=flat" alt="pasqualemartucci" /> </p>
 
-- 🔭 I’m currently working at **MTA S.P.A.** on behalf of **Alten**
+- 🔭 I’m currently working at **Leonardo S.P.A.**
 
 - 🌱 I’m currently learning **Python, C++, Embedded Software, Flutter framework**
 
